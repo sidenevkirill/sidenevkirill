@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SvenC | Telegram" width="22px" src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/vk.svg" />][telegram]
+[<img align="left" alt="SvenC | Telegram" width="22px" src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/telegram.svg" />][telegram]
 [<img align="left" alt="SvenC | VK" width="22px" src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/vk.svg" />][vk]
 [<img align="left" alt="SvenC | Instagram" width="22px" src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/github-logo.svg" />][github]
 
