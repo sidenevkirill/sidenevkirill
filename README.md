@@ -1,20 +1,19 @@
-## Hi, I’m @sidenevkirill! <img src="https://sidenevkirill.github.io/img/Hi.gif" width="29px">
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, I'm @sidenevkirill! <img src="https://sidenevkirill.github.io/img/Hi.gif" width="29px">
 
-### Connect with me:
+- 👀 **Interested in**: Android development, mobile apps, and innovative technologies
+- 🌱 **Currently learning**: Java, Jetpack Compose, and advanced Android architecture
+- 💞️ **Looking to collaborate**: On open-source Android projects and mobile applications
+- 📫 **Reach me**: 
+  - Telegram: [@lisdevs](https://t.me/lisdevs)
+  - VK: [vk.com/lisdevs](https://vk.com/lisdevs)
+- ⚡ **Fun fact**: I enjoy creating apps that blend beautiful design with powerful features
 
-[<img align="left" alt="SvenC | Telegram" width="22px" src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/telegram.svg" />][telegram]
-[<img align="left" alt="SvenC | VK" width="22px" src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/vk.svg" />][vk]
-[<img align="left" alt="SvenC | Instagram" width="22px" src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/github-logo.svg" />][github]
+### 🚀 Skills
+- **Android**: Java, Room, Retrofit, Git
+- **Tools**: Git, Android Studio, REST APIs
+- **Currently exploring**: Jetpack Compose, Clean Architecture
 
-[github]: https://github.com/sidenevkirill/
-[vk]: https://vk.com/id175974139/
-[telegram]: hhttps://t.me/lisdevs/
-
-<!---
-sidenevkirill/sidenevkirill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📱 Featured Projects
+- [Scrippy](https://github.com/sidenevkirill/scrippy) - VK client
+- [Flaco](https://github.com/sidenevkirill/Flaco-VKMusic) - Music player
+- [Last War](https://github.com/sidenevkirill/Last-War) - Mobile game
