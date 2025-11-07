@@ -4,7 +4,7 @@
 - 🌱 **Currently learning**: Java, Jetpack Compose, and advanced Android architecture
 - 💞️ **Looking to collaborate**: On open-source Android projects and mobile applications
 - 📫 **Reach me**:
-  - My: [site](https://sidenevkirill.github.io/new/index.html)
+  - My: [site](https://sidenevkirill.github.io)
   - Telegram: [@lisdevs](https://t.me/lisdevs)
   - VK: [vk.com/lisdevs](https://vk.com/lisdevs)
 - ⚡ **Fun fact**: I enjoy creating apps that blend beautiful design with powerful features
