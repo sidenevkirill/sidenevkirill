@@ -15,6 +15,6 @@
 - **Currently exploring**: Jetpack Compose, Clean Architecture
 
 ### 📱 Featured Projects
-- [Scrippy](https://github.com/sidenevkirill/scrippy) - VK client
-- [Flaco](https://github.com/sidenevkirill/Flaco-VKMusic) - Music player
-- [VKMPlayer](https://github.com/sidenevkirill/VK-Moosic-Player-Destkop) - Desktop App
+- [Scrippy](https://github.com/sidenevkirill/scrippy) - VK Client
+- [Flaco](https://github.com/sidenevkirill/Flaco-VKMusic) - Music Player
+- [VKMP](https://github.com/sidenevkirill/VK-Moosic-Player-Destkop) - VK Music Desktop Player
