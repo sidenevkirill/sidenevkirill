@@ -17,4 +17,4 @@
 ### 📱 Featured Projects
 - [Scrippy](https://github.com/sidenevkirill/scrippy) - VK client
 - [Flaco](https://github.com/sidenevkirill/Flaco-VKMusic) - Music player
-- [Last War](https://github.com/sidenevkirill/Last-War) - Mobile game
+- [VKMPlayer](https://github.com/sidenevkirill/VK-Moosic-Player-Destkop) - Desktop App
